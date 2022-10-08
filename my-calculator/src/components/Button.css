@@ -1,0 +1,17 @@
+.btn-wrapper {
+  height: 65px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  background-color: #5a5a5a;
+  flex: 1;
+  border-radius: 200px;
+  margin: 2px;
+  color: white;
+  font-weight: 600;
+}
+
+.btn-wrapper:hover {
+  background-color: lightgrey;
+}
